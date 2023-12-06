@@ -4,13 +4,13 @@ Source: https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/tree/maste
 
 ## Introduction
 
-Here is my python source code for training an agent to play flappy bird. It could be seen as a very basic example of Reinforcement Learning's application.
+Here is the python source code for training an agent to play flappy bird. 
 <p align="center">
   <img src="demo/flappybird.gif" width=600><br/>
   <i>Result</i>
 </p>
 
-## How to use my code
+## How to use the code
 
 * **Train your model from scratch** by running **python train.py**
 * **Test your trained model** by running **python test.py**
