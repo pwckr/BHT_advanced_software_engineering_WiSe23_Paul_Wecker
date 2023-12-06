@@ -20,8 +20,9 @@ You could find my trained model at **trained_models/flappy_bird**
  
 ## Requirements
 
-* **python 3.6**
+* **python 3.6 - 3.11**
 * **pygame**
-* **cv2**
-* **pytorch** 
+* **opencv-python**
+* **torch** 
 * **numpy**
+* **tensorboardX**
